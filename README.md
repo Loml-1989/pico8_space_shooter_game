@@ -8,4 +8,4 @@ This is a space shooter game i made in pico 8 game engine from scratch.
 - 'X' for restarting
 
 # How to start the damn game tho!?!?!?!
-Download the file spaceshooter.p8 and open it in pico 8.
+Download the file spaceshooter_sfx.p8 and open it in pico 8.
