@@ -9,3 +9,7 @@ This is a space shooter game i made in pico 8 game engine from scratch.
 
 # How to start the damn game tho!?!?!?!
 Download the file spaceshooter_sfx.p8 and open it in pico 8.
+
+## Note
+spaceshooter.p8 does not have shooting sound, spaceshooter_sfx.p8 does have shooting sound.
+Also i tried adding music but failed :(
